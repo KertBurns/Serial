@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,Напоминание 1
+https://temp-cdn.11cdn.org/fi2lm/38e9c0b2c5ba96826d294d24fea16150/7f_Reminder.S01E01.720p.Ultradox.v1a1.18.06.25.mp4
+#EXTINF:-1,Напоминание 2
+https://temp-cdn.11cdn.org/fi2lm/38e9c0b2c5ba96826d294d24fea16150/7f_Reminder.S01E02.720p.Ultradox.v1a1.18.06.25.mp4
+#EXTINF:-1,Напоминание 3
+https://temp-cdn.11cdn.org/fi2lm/38e9c0b2c5ba96826d294d24fea16150/7f_Reminder.S01E03.720p.Ultradox.v1a1.18.06.25.mp4
 #EXTINF:-1,Мертвый узел 15
 https://data00-cdn.11cdn.org/fi2lm/d9e58bce6dd49bee0e4ef65da085af16/7f_Kordugum.s01e15.a1.13.03.17.mp4
 #EXTINF:-1,Слепой метод 1
