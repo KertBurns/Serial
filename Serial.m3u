@@ -1,14 +1,20 @@
-#EXTM3U
+﻿#EXTM3U
 #EXTINF:-1, Мертвый узел 19
 https://data00-cdn.11cdn.org/fi2lm/d57fa9cc57d45afa2a630425b16b4f44/7f_Kordugum.s01e19.a1.21.03.17.mp4
-#EXTINF:-1, Требуется папа для моего сына 1
-http://data01-cdn.11cdn.org/fi2lm/d9e58bce6dd49bee0e4ef65da085af16/7f_Trebuetsya.papa.dlya.moego.syna.S01.E01.2025.IPTVRip.v1a1.25.05.25.mp4
-#EXTINF:-1, Требуется папа для моего сына 2
-http://data01-cdn.11cdn.org/fi2lm/d9e58bce6dd49bee0e4ef65da085af16/7f_Trebuetsya.papa.dlya.moego.syna.S01.E02.2025.IPTVRip.v1a1.25.05.25.mp4
-#EXTINF:-1, Требуется папа для моего сына 3
-http://data11-cdn.11cdn.org/fi2lm/d9e58bce6dd49bee0e4ef65da085af16/7f_Trebuetsya.papa.dlya.moego.syna.S01.E03.2025.IPTVRip.v1a1.25.05.25.mp4
-#EXTINF:-1, Требуется папа для моего сына 4
-http://data02-cdn.11cdn.org/fi2lm/d9e58bce6dd49bee0e4ef65da085af16/7f_Trebuetsya.papa.dlya.moego.syna.S01.E04.2025.IPTVRip.v1a1.25.05.25.mp4
+#EXTINF:-1, Чхал Капат.1 индия
+https://s1.coldcdn.xyz/content/stream/serials/chhal.kapat/s1/chhal.kapat.s01e01.720p.coldfilm_106253/hls/360/index.m3u8
+#EXTINF:-1, Чхал Капат.2 индия
+https://s1.coldcdn.xyz/content/stream/serials/chhal.kapat/s1/chhal.kapat.s01e02.720p.coldfilm_106254/hls/360/index.m3u8
+#EXTINF:-1, Чхал Капат.3 индия
+https://s1.coldcdn.xyz/content/stream/serials/chhal.kapat/s1/chhal.kapat.s01e03.720p.coldfilm_106255/hls/360/index.m3u8
+#EXTINF:-1, Чхал Капат.4 индия
+https://s1.coldcdn.xyz/content/stream/serials/chhal.kapat/s1/chhal.kapat.s01e04.720p.coldfilm_106256/hls/360/index.m3u8
+#EXTINF:-1, Чхал Капат.5 индия
+https://s1.coldcdn.xyz/content/stream/serials/chhal.kapat/s1/chhal.kapat.s01e05.720p.coldfilm_106257/hls/360/index.m3u8
+#EXTINF:-1, Чхал Капат.6 индия
+https://s1.coldcdn.xyz/content/stream/serials/chhal.kapat/s1/chhal.kapat.s01e06.720p.coldfilm_106258/hls/360/index.m3u8
+#EXTINF:-1, Чхал Капат.7 индия
+https://s1.coldcdn.xyz/content/stream/serials/chhal.kapat/s1/chhal.kapat.s01e07.720p.coldfilm_106259/hls/360/index.m3u8
 #EXTINF:-1, Полет птицы 1
 http://data04-cdn.11cdn.org/fi2lm/d9e58bce6dd49bee0e4ef65da085af16/7f_Polet.pticy.S01.E01.2025.WEB-DLRip.AVC.ExKinoRay.v1a1.24.05.25.mp4
 #EXTINF:-1, Полет птицы 2
