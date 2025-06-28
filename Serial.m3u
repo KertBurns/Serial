@@ -1,24 +1,14 @@
 ﻿#EXTM3U
-#EXTINF:-1, Мертвый узел 25
-https://data00-cdn.11cdn.org/fi2lm/5932a5d7790f872008111b94e3e8c8a4/7f_Kordugum.s01e25.a1.11.04.17.mp4
 #EXTINF:-1, Мертвый узел 26
 https://data00-cdn.11cdn.org/fi2lm/5932a5d7790f872008111b94e3e8c8a4/7f_Kordugum.s01e26.a1.13.04.17.mp4
-#EXTINF:-1, Киловаттино 1
-https://data01-cdn.11cdn.org/fi2lm/5932a5d7790f872008111b94e3e8c8a4/7f_01..Kilovattino.2025.WEB-DL.1080p.Files-x.v1a1.15.04.25.mp4
-#EXTINF:-1, Киловаттино 2
-https://data02-cdn.11cdn.org/fi2lm/5932a5d7790f872008111b94e3e8c8a4/7f_02..Kilovattino.2025.WEB-DL.1080p.Files-x.v1a1.15.04.25.mp4
-#EXTINF:-1, Киловаттино 3
-https://data08-cdn.11cdn.org/fi2lm/5932a5d7790f872008111b94e3e8c8a4/7f_03..Kilovattino.2025.WEB-DL.1080p.Files-x.v1a1.15.04.25.mp4
-#EXTINF:-1, Киловаттино 4
-https://data04-cdn.11cdn.org/fi2lm/5932a5d7790f872008111b94e3e8c8a4/7f_04..Kilovattino.2025.WEB-DL.1080p.Files-x.v1a1.16.04.25.mp4
-#EXTINF:-1, Позови меня с собой 1
-https://data04-cdn.11cdn.org/fi2lm/f742123b4f88d5fcd8bd5a20b1560a7e/7f_Pozovi.menya.s.soboi.2024.1.seria.v1a1.27.05.25.mp4
-#EXTINF:-1, Позови меня с собой 2
-https://data11-cdn.11cdn.org/fi2lm/f742123b4f88d5fcd8bd5a20b1560a7e/7f_Pozovi.menya.s.soboi.2024.2.seria.v1a1.27.05.25.mp4
-#EXTINF:-1, Позови меня с собой 3
-https://data11-cdn.11cdn.org/fi2lm/f742123b4f88d5fcd8bd5a20b1560a7e/7f_Pozovi.menya.s.soboi.2024.3.seria.v1a1.27.05.25.mp4
-#EXTINF:-1, Позови меня с собой 4
-https://data05-cdn.11cdn.org/fi2lm/f742123b4f88d5fcd8bd5a20b1560a7e/7f_Pozovi.menya.s.soboi.2024.4.seria.v1a1.27.05.25.mp4
+#EXTINF:-1, Киловаттино 5
+https://data01-cdn.11cdn.org/fi2lm/9845274a41509a7bcfc43cd33a780281/7f_05..Kilovattino.2025.WEB-DL.1080p.Files-x.v1a1.16.04.25.mp4
+#EXTINF:-1, Киловаттино 6
+https://data02-cdn.11cdn.org/fi2lm/9845274a41509a7bcfc43cd33a780281/7f_06..Kilovattino.2025.WEB-DL.1080p.Files-x.v1a1.22.04.25.mp4
+#EXTINF:-1, Киловаттино 7
+https://data04-cdn.11cdn.org/fi2lm/9845274a41509a7bcfc43cd33a780281/7f_07..Kilovattino.2025.WEB-DL.1080p.Files-x.v1a1.22.04.25.mp4
+#EXTINF:-1, Киловаттино 8
+https://data05-cdn.11cdn.org/fi2lm/9845274a41509a7bcfc43cd33a780281/7f_08..Kilovattino.2025.WEB-DL.1080p.Files-x.v1a1.22.04.25.mp4
 #EXTINF:-1, Культурный марафон 1
 https://data01-cdn.11cdn.org/fi2lm/1d04779de69c76aca2cb03d2401ee8c3/7f_Kulturnyj.marafon.S01.E01.2025.IPTVRip.v1a1.30.05.25.mp4
 #EXTINF:-1, Культурный марафон 2
@@ -27,3 +17,11 @@ https://data08-cdn.11cdn.org/fi2lm/1d04779de69c76aca2cb03d2401ee8c3/7f_Kulturnyj
 https://data11-cdn.11cdn.org/fi2lm/1d04779de69c76aca2cb03d2401ee8c3/7f_Kulturnyj.marafon.S01.E03.2025.IPTVRip.v1a1.30.05.25.mp4
 #EXTINF:-1, Культурный марафон 4
 https://data04-cdn.11cdn.org/fi2lm/1d04779de69c76aca2cb03d2401ee8c3/7f_Kulturnyj.marafon.S01.E04.2025.IPTVRip.v1a1.30.05.25.mp4
+#EXTINF:-1, Позови меня с собой 1
+https://data04-cdn.11cdn.org/fi2lm/f742123b4f88d5fcd8bd5a20b1560a7e/7f_Pozovi.menya.s.soboi.2024.1.seria.v1a1.27.05.25.mp4
+#EXTINF:-1, Позови меня с собой 2
+https://data11-cdn.11cdn.org/fi2lm/f742123b4f88d5fcd8bd5a20b1560a7e/7f_Pozovi.menya.s.soboi.2024.2.seria.v1a1.27.05.25.mp4
+#EXTINF:-1, Позови меня с собой 3
+https://data11-cdn.11cdn.org/fi2lm/f742123b4f88d5fcd8bd5a20b1560a7e/7f_Pozovi.menya.s.soboi.2024.3.seria.v1a1.27.05.25.mp4
+#EXTINF:-1, Позови меня с собой 4
+https://data05-cdn.11cdn.org/fi2lm/f742123b4f88d5fcd8bd5a20b1560a7e/7f_Pozovi.menya.s.soboi.2024.4.seria.v1a1.27.05.25.mp4
